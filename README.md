@@ -2,10 +2,10 @@
 ##### Driven by clean code, I think about the 'why'
 <div style="text-align: left;">
     <div style="text-align: left;"> 
-      <a href="https://imwinnie.com"><img src="https://camo.githubusercontent.com/cd613502c1a61e27b38498e1f906d18ec69b42ba31aae185824d8f619b468015/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426c6f672d3230633939373f7374796c653d666c6174266c6f676f3d4769744875622053706f6e736f7273266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Blog-33CCFF?style=flat&amp;logo=GitHub Sponsors&amp;logoColor=white" style="max-width: 100%;">
+      <a href="https://imwinnie.com"><img src="https://camo.githubusercontent.com/cd613502c1a61e27b38498e1f906d18ec69b42ba31aae185824d8f619b468015/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426c6f672d3230633939373f7374796c653d666c6174266c6f676f3d4769744875622053706f6e736f7273266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Blog-00DDFF?style=flat&amp;logo=GitHub Sponsors&amp;logoColor=white" style="max-width: 100%;">
       </a>
       <br>
-      <a href=mailto:byourim@gmail.com> <img src="https://img.shields.io/badge/Gmail-AACC77?style=flat&logo=Gmail&logoColor=white&link=mailto:byourim@gmail.com"> 
+      <a href=mailto:byourim@gmail.com> <img src="https://img.shields.io/badge/Gmail-00DDFF?style=flat&logo=Gmail&logoColor=white&link=mailto:byourim@gmail.com"> 
       </a>
     </div> 
   <br> 
