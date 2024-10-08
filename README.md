@@ -54,6 +54,5 @@
       <div style="text-align: left;"> 
         <img src="https://github-readme-stats.vercel.app/api?username=byunyourim&bg_color=60,ffffff,ffffff&title_color=000000&text_color=000000" width="457"/> 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byunyourim&layout=compact&bg_color=60,ffffff,ffffff&title_color=000000&text_color=000000" width="360"/> 
-      </div> 
+      </div>
     </div>
-    
