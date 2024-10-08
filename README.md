@@ -16,24 +16,37 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
 </div>
     <div style="text-align: left;">
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h3> 
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Staks </h3> 
       <div style="margin: ; text-align: left;" "text-align: left;"> 
-        <img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=GitHub Pages&logoColor=white">
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-        <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
+        <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Backend Skills </h3> 
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring Security-00CC00?style=flat&logo=Spring Security&logoColor=white">
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white">
         <br>
-        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
+        <img src="https://img.shields.io/badge/javascript-000000?style=flat&logo=javascript&logoColor=white">
+        <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
+        <img src="https://img.shields.io/badge/JPA-0769AD?style=flat&logo=JPA&logoColor=white">
+        <img src="https://img.shields.io/badge/Mybatis-333333?style=flat&logo=Mybatis&logoColor=white">
+        <img src="https://img.shields.io/badge/Junit5-000033?style=flat&logo=Junit5&logoColor=white">
+        <img src="https://img.shields.io/badge/Mockito-00CC00?style=flat&logo=Mockito&logoColor=white">
+        <img src="https://img.shields.io/badge/Gradle-CCCCCC?style=flat&logo=Gradle&logoColor=white">
+          <br>
+        <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> DevOps Skills </h3> 
         <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
         <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-00ccff?style=flat&logo=Docker&logoColor=white">
+        <img src="https://img.shields.io/badge/Github Action-0066FF?style=flat&logo=Github Action&logoColor=white">
+        <img src="https://img.shields.io/badge/Tibero-660000?style=flat&logo=Tibero&logoColor=white">
+          <br>
+        <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Collaboration Tool </h4> 
         <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-        <br>
         <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
-      </div>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+        <img src="https://img.shields.io/badge/SVN-6699FF?style=flat&logo=SVN&logoColor=white">
+        <img src="https://img.shields.io/badge/Intellij-000033?style=flat&logo=Intellij&logoColor=white">
+        <img src="https://img.shields.io/badge/Eclipse-000099?style=flat&logo=Eclipse&logoColor=white">
     </div>
     <br><br><br>
     <div style="text-align: left;"> 
