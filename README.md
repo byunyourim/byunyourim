@@ -1,10 +1,11 @@
 ### About me 👋
 #### Driven by clean code, I think about the 'why'
 <a href="https://imwinnie.com"><img src="https://img.shields.io/badge/Blog-181717.svg?style=flat-square&logo=GitHub&logoColor=white"/></a>
-
-<div style="text-align: left;">
+<a href="https://imwinnie.com"><img src="https://img.shields.io/badge/Blog-181717.svg?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<br>
+<div style="float: left;">
     <a href="https://github.com/devxb/gitanimals">
-      <img src="https://render.gitanimals.org/farms/byunyourim" width="500" height="150"/>
+      <img src="https://render.gitanimals.org/farms/byunyourim" width="500" height="230"/>
     </a>
 </div>
     <div style="text-align: left;">
