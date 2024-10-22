@@ -1,19 +1,14 @@
 ### About me 👋
-##### Driven by clean code, I think about the 'why'
+#### Driven by clean code, I think about the 'why'
+<a href="https://imwinnie.com"><img src="https://img.shields.io/badge/Blog-181717.svg?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="(블로그, SNS 주소)" target="_blank">
+
+
+    
 <div style="text-align: left;">
-    <div style="text-align: left;"> 
-      <a href="https://imwinnie.com"><img src="https://camo.githubusercontent.com/cd613502c1a61e27b38498e1f906d18ec69b42ba31aae185824d8f619b468015/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426c6f672d3230633939373f7374796c653d666c6174266c6f676f3d4769744875622053706f6e736f7273266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Blog-00DDFF?style=flat&amp;logo=GitHub Sponsors&amp;logoColor=white" style="max-width: 100%;">
-      </a>
-      <br>
-      <a href=mailto:byourim@gmail.com> <img src="https://img.shields.io/badge/Gmail-00DDFF?style=flat&logo=Gmail&logoColor=white&link=mailto:byourim@gmail.com"> 
-      </a>
-    </div> 
-  <br> 
-    <div style="text-align: left;">  </div> 
-    </div>
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
+    <a href="https://github.com/devxb/gitanimals">
+      <img src="https://render.gitanimals.org/lines/byunyourim" width="500" height="150"/>
+    </a>
 </div>
     <div style="text-align: left;">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Staks </h3> 
@@ -56,3 +51,5 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byunyourim&layout=compact&bg_color=60,ffffff,ffffff&title_color=000000&text_color=000000?exclude_repo=winnie.github.io" width="420"/> 
       </div>
     </div>
+
+
