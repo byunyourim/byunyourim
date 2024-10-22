@@ -36,8 +36,6 @@
         <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Collaboration Tool </h4> 
         <img src="https://img.shields.io/badge/Intellij-000033?style=flat&logo=Intellij&logoColor=white">
         <img src="https://img.shields.io/badge/Eclipse-000099?style=flat&logo=Eclipse&logoColor=white">
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-        <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
         <img src="https://img.shields.io/badge/Git-AA0000?style=flat&logo=Git&logoColor=white">
         <img src="https://img.shields.io/badge/SVN-6699FF?style=flat&logo=SVN&logoColor=white">
     </div>
