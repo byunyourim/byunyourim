@@ -1,6 +1,14 @@
-<h2>About me 👋</h2>
-    
-#### Driven by clean code, I think about the 'why'
+<h2>Hi there 👋</h2>
+
+
+##### Welcome to my Page🌟    
+##### I'm winnie, back-end developer  
+
+
+###### ⚡️ 끊임없이 '왜'라는 질문을 던지며, 문제를 해결하는 것을 좋아합니다.  
+###### ⚡️ 클린 코드를 지향하며, 항상 더 성장하기 위해 노력합니다.
+
+
 <a href="https://imwinnie.com"><img src="https://img.shields.io/badge/Blog-181717.svg?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <br>
 <div style="float:left;">
