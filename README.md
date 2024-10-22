@@ -1,15 +1,17 @@
-### About me 👋
+<h2>About me 👋</h2>
+    
 #### Driven by clean code, I think about the 'why'
 <a href="https://imwinnie.com"><img src="https://img.shields.io/badge/Blog-181717.svg?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://imwinnie.com"><img src="https://img.shields.io/badge/Blog-181717.svg?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <br>
 <div style="float: left;">
     <a href="https://github.com/devxb/gitanimals">
-      <img src="https://render.gitanimals.org/farms/byunyourim" width="500" height="230"/>
+      <img src="https://render.gitanimals.org/farms/byunyourim" width="550" height="230"/>
     </a>
 </div>
-    <div style="text-align: left;">
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Staks </h3> 
+<br><br><br>
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Staks </h3> 
       <div style="margin: ; text-align: left;" "text-align: left;"> 
         <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Backend Skills </h3> 
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
@@ -41,10 +43,10 @@
     </div>
     <br><br><br>
     <div style="text-align: left;"> 
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h3> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h3> 
       <div style="text-align: left;"> 
         <img src="https://github-readme-stats.vercel.app/api?username=byunyourim&bg_color=60,ffffff,ffffff&title_color=000000&text_color=000000" width="380"/> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byunyourim&layout=compact&bg_color=60,ffffff,ffffff&title_color=000000&text_color=000000?exclude_repo=winnie.github.io" width="420"/> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byunyourim&layout=compact&bg_color=60,ffffff,ffffff&title_color=000000&text_color=000000&exclude_repo=winnie.github.io" width="420"/> 
       </div>
     </div>
 
