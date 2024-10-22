@@ -2,7 +2,7 @@
 
 
 ##### Welcome to my Page🌟    
-##### I'm winnie, back-end developer  
+##### I'm winnie, Back-end developer  
 
 
 ###### ⚡️ 끊임없이 '왜'라는 질문을 던지며, 문제를 해결하는 것을 좋아합니다.  
