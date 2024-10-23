@@ -31,14 +31,14 @@
         <img src="https://img.shields.io/badge/JPA-0769AD?style=flat&logo=JPA&logoColor=white">
         <img src="https://img.shields.io/badge/Mybatis-333333?style=flat&logo=Mybatis&logoColor=white">
           <br>
-        <img src="https://img.shields.io/badge/Junit5-000033?style=flat&logo=Junit5&logoColor=white">
+<!--         <img src="https://img.shields.io/badge/Junit5-000033?style=flat&logo=Junit5&logoColor=white">
         <img src="https://img.shields.io/badge/Mockito-6DA83F?style=flat&logo=Mockito&logoColor=white">
-        <img src="https://img.shields.io/badge/Gradle-666666?style=flat&logo=Gradle&logoColor=white">
+        <img src="https://img.shields.io/badge/Gradle-666666?style=flat&logo=Gradle&logoColor=white"> -->
           <br><br>
         <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> DevOps Skills </h3> 
         <img src="https://img.shields.io/badge/Docker-0088FF?style=flat&logo=Docker&logoColor=white">
         <img src="https://img.shields.io/badge/Github Action-0088FF?style=flat&logo=Github Action&logoColor=white">
-        <img src="https://img.shields.io/badge/MariaDB-003588?style=flat&logo=MariaDB&logoColor=white">
+<!--         <img src="https://img.shields.io/badge/MariaDB-003588?style=flat&logo=MariaDB&logoColor=white"> -->
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
         <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
           <br><br>
