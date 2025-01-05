@@ -11,11 +11,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://imwinnie.com"><img src="https://img.shields.io/badge/Blog-181717.svg?style=flat-square&logo=GitHub&logoColor=white" style="margin=100px"/></a>
 <br>
-<div style="float:left;">
-    <a href="https://github.com/devxb/gitanimals" >
-      <img src="https://render.gitanimals.org/farms/byunyourim" width="600" height="270"/>
-    </a>
-</div>
+
+
+
 <br><br><br>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Staks </h3> 
