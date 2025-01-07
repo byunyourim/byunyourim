@@ -9,7 +9,7 @@
 ###### ⚡️ 클린 코드를 지향하며, 항상 더 성장하기 위해 노력합니다.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://imwinnie.com"><img src="https://img.shields.io/badge/Blog-181717.svg?style=flat-square&logo=GitHub&logoColor=white" style="margin=100px"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://devwinnie.tistory.com/"><img src="https://img.shields.io/badge/Blog-181717.svg?style=flat-square&logo=GitHub&logoColor=white" style="margin=100px"/></a>
 <br>
 
 
